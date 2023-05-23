@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-LogIn-Project/static/css/main.067943ae.css",
+    "main.js": "/Simple-LogIn-Project/static/js/main.791e6103.js",
+    "index.html": "/Simple-LogIn-Project/index.html",
+    "main.067943ae.css.map": "/Simple-LogIn-Project/static/css/main.067943ae.css.map",
+    "main.791e6103.js.map": "/Simple-LogIn-Project/static/js/main.791e6103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067943ae.css",
+    "static/js/main.791e6103.js"
+  ]
+}
